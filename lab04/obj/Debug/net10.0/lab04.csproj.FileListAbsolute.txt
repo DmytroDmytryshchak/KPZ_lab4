@@ -1,0 +1,15 @@
+E:\Uni\Politekh\4 sem\KPZ\lab4\lab04\lab04\bin\Debug\net10.0\lab04.exe
+E:\Uni\Politekh\4 sem\KPZ\lab4\lab04\lab04\bin\Debug\net10.0\lab04.deps.json
+E:\Uni\Politekh\4 sem\KPZ\lab4\lab04\lab04\bin\Debug\net10.0\lab04.runtimeconfig.json
+E:\Uni\Politekh\4 sem\KPZ\lab4\lab04\lab04\bin\Debug\net10.0\lab04.dll
+E:\Uni\Politekh\4 sem\KPZ\lab4\lab04\lab04\bin\Debug\net10.0\lab04.pdb
+E:\Uni\Politekh\4 sem\KPZ\lab4\lab04\lab04\obj\Debug\net10.0\lab04.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\Politekh\4 sem\KPZ\lab4\lab04\lab04\obj\Debug\net10.0\lab04.AssemblyInfoInputs.cache
+E:\Uni\Politekh\4 sem\KPZ\lab4\lab04\lab04\obj\Debug\net10.0\lab04.AssemblyInfo.cs
+E:\Uni\Politekh\4 sem\KPZ\lab4\lab04\lab04\obj\Debug\net10.0\lab04.csproj.CoreCompileInputs.cache
+E:\Uni\Politekh\4 sem\KPZ\lab4\lab04\lab04\obj\Debug\net10.0\lab04.sourcelink.json
+E:\Uni\Politekh\4 sem\KPZ\lab4\lab04\lab04\obj\Debug\net10.0\lab04.dll
+E:\Uni\Politekh\4 sem\KPZ\lab4\lab04\lab04\obj\Debug\net10.0\refint\lab04.dll
+E:\Uni\Politekh\4 sem\KPZ\lab4\lab04\lab04\obj\Debug\net10.0\lab04.pdb
+E:\Uni\Politekh\4 sem\KPZ\lab4\lab04\lab04\obj\Debug\net10.0\lab04.genruntimeconfig.cache
+E:\Uni\Politekh\4 sem\KPZ\lab4\lab04\lab04\obj\Debug\net10.0\ref\lab04.dll
